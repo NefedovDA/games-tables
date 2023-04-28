@@ -1,0 +1,6 @@
+BasedOnStyle: google
+DerivePointerAlignment: false
+IncludeBlocks: Preserve
+AttributeMacros:
+  - noexcept
+IndentRequiresClause: false
